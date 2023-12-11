@@ -1,13 +1,17 @@
 <h1 align="center">Oh, an alien! Welcome to my world!</h1>
+<img alt="pixel" src="https://md-analytics.vercel.app/api/track/eletroswing-github-tracking-pixel" />
 
 ###
 
-<h4 align="center">Visitor number</h4>
+<h4 align="center">Visitor number(part of one of my projects, <a href="https://md-analytics.vercel.app" target="_blank">Md Analytics</a>)</h4>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/eletroswing/count.svg?"  />
+  <img src="https://md-analytics.vercel.app/api/widgets/view-counter/eletroswing-github-tracking-pixel"  />
+</div>
+<div align="center">
+  <img src="https://md-analytics.vercel.app/api/widgets/total-views/eletroswing-github-tracking-pixel"   /> 
 </div>
 
 ###
@@ -64,7 +68,6 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Some%20Stats&username=eletroswing" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=eletroswing" height="150" alt="languages graph"  />
 </div>
 
