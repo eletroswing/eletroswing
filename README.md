@@ -11,7 +11,7 @@
   <img src="https://md-analytics.vercel.app/api/widgets/view-counter/eletroswing-github-tracking-pixel"  />
 </div>
 <div align="center">
-  <img src="https://md-analytics.vercel.app/api/widgets/total-views/eletroswing-github-tracking-pixel"   /> 
+  <img src="https://md-analytics.vercel.app/api/widgets/views/eletroswing-github-tracking-pixel"   /> 
 </div>
 
 ###
